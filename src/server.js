@@ -7,7 +7,7 @@ import { getUsers } from "./services/users.js";
 // import { getFilterVisitante } from "./services/filtrarPerso.js";
 
 const app = express();
-const port = 3000;
+const port = 3500;
 const host = "localhost";
 
 // Middlewares
